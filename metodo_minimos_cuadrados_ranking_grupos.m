@@ -1,4 +1,4 @@
-function vector=metodo1_grupos(varargin)
+function vector=metodo_minimos_cuadrados_ranking_grupos(varargin)
 %varargin: permite definir un numero arbitrario de matrices en tiempo de ejecucion
 %nargin: contiene el numero de parametros con el que se llama a la funcion
 

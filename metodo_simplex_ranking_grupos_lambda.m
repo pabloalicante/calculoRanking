@@ -1,4 +1,4 @@
-function rank=metodo_simplex_ranking_grupos_lambda_definitivo(ListaM,lambda,vectorPesos)
+function rank=metodo_simplex_ranking_grupos_lambda(ListaM,lambda,vectorPesos)
 
 if ~iscell(ListaM) 
     error('Primer argumento: matriz M o celda de matrices: {M1,M2,...Mn}');
